@@ -1,6 +1,6 @@
 # VBA-Challenge
 
-# I send my code in Slack this weekend because I was having an error with the division (due to 
+# I sent my code in Slack this weekend because I was having an error with the division (due to 
 # having a denominator equal to zero) even when I filter zeros out before doing that division. 
 
 # Yesterday, I wanted to show you the error, but when I ran my code to Ju it ran fine. Now it is 
